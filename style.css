@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.hi{
+    background-color: rgb(90, 152, 160);
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+    margin: 20px;
+}
+
+.form #submitted{
+    
+  width: 70px;
+  height: 30px;
+  color: white;
+  border: 5px solid white;
+    background-color:  rgb(90, 152, 160);
+    border-radius: 30px;
+}
+
+#generic_box{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(90, 152, 160);
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+   border-radius: 30px;
+   
+}
+#generic_box p{
+    color: rgb(44, 109, 109);
+    font-size: xx-large;
+    text-align: center;
+    
+}
+.mubi_img{
+    padding: 5px;
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid rgb(90, 152, 160);
+    border-radius:30px ;
+}
